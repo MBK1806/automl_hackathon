@@ -2,7 +2,7 @@ This project is an automated machine learning program designed to work with unkn
 
 The program automatically analyzes the dataset, handles missing values, removes unnecessary columns, processes numerical and categorical features, and tests different machine learning models to select the best-performing one. It also includes a time limit to help meet the hackathon's 60-second constraint.
 
-Requirements: Python, pandas, NumPy, and scikit-learn.
+Requirements: Python, pandas, NumPy, and scikit-learn. To install them, can just enter "pip install -r requirements.txt"
 
 To install the required libraries, open a terminal in the project folder and run:
 
