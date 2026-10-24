@@ -1,3 +1,8 @@
+Project by 
+Maria Bou Khalil
+Eleanor Serhal
+Serena Soubra
+
 This project is an automated machine learning program designed to work with unknown datasets. It supports three tasks: classification, regression, and clustering.
 
 The program automatically analyzes the dataset, handles missing values, removes unnecessary columns, processes numerical and categorical features, and tests different machine learning models to select the best-performing one. It also includes a time limit to help meet the hackathon's 60-second constraint.
