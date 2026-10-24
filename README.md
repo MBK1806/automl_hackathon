@@ -31,6 +31,6 @@ The program displays the selected model, execution time, and evaluation results.
 
 To save the predictions and dataset profile in a JSON file, add --output results.json to the command.
 
-For classification and regression, these terminal commands automatically split the dataset into 80% training and 20% testing. For separate training and evaluation datasets, the run() function can be imported into another Python script.
+For classification and regression, these terminal commands automatically split the dataset into 80% training and 20% testing.
 
 The program uses a default internal time budget of 52 seconds, although total execution time may be slightly longer due to startup and file loading.
